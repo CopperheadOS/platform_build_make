@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
     StorageManager \
     Telecom \
     TeleService \
+    Todo-agenda \
     Traceur \
     VpnDialogs \
     vr \
