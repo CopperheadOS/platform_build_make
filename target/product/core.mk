@@ -46,7 +46,6 @@ PRODUCT_PACKAGES += \
     Keyguard \
     LatinIME \
     Launcher3QuickStep \
-    LicenseChecker \
     ManagedProvisioning \
     MtpDocumentsProvider \
     offline-calendar \
@@ -61,7 +60,6 @@ PRODUCT_PACKAGES += \
     SecureElement \
     Settings \
     SettingsIntelligence \
-    SetupWizard \
     SharedStorageBackup \
     SimAppDialog \
     StorageManager \
