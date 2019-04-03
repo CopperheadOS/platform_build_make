@@ -67,6 +67,7 @@ PRODUCT_PACKAGES += \
     TeleService \
     Todo-agenda \
     Traceur \
+    Updater \
     VpnDialogs \
     vr \
     MmsService \
