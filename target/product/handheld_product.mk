@@ -44,3 +44,5 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES_DEBUG += \
     frameworks-base-overlays-debug
+
+-include vendor/copperhead/build/target/product/handheld_product.mk
