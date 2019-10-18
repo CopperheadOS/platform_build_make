@@ -88,3 +88,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.carrier=unknown \
     ro.config.notification_sound=OnTheHunt.ogg \
     ro.config.alarm_alert=Alarm_Classic.ogg
+
+-include vendor/copperhead/build/target/product/handheld_system.mk
