@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
+    Changelog \
     chromium \
     Contacts \
     DeskClock \
