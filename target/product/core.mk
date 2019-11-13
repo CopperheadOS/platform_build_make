@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BookmarkProvider \
+    Bugreporter \
     BuiltInPrintService \
     CalendarProvider \
     CaptivePortalLogin \
